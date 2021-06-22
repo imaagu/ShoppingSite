@@ -1,0 +1,15 @@
+.cartcss {
+  position: absolute;
+  left: 11px;
+  top: 1px;
+  text-align: center;
+  border-radius: 8px;
+  width: 18px;
+  height: 18px;
+  background-color: #ff6161;
+  border: 1px solid #fff;
+  font-weight: 400;
+  color: #f0f0f0;
+  line-height: 16px;
+  font-size: 10px;
+}

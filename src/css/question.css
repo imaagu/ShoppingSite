@@ -1,0 +1,17 @@
+.question {
+    border-radius: 50%;
+    background-color: #ffff;
+    color: #878787;
+    font-weight: 500;
+    width: 16px;
+    height: 16px;
+    font-size: 11px;
+    line-height: 16px;
+    text-align: center;
+    display: inline-block;
+    border: 1px solid #e0e0e0;
+    box-shadow: 0 0 1px 0 rgba(0,0,0,.2);
+    vertical-align: middle;
+    margin:  0 2px 0 8px;
+    cursor: pointer;
+}
